@@ -11,6 +11,10 @@
   "keywords": [
     "package"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airportyh/checkname.git"
+  },
   "author": "Toby Ho",
   "license": "MIT",
   "dependencies": {
